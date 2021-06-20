@@ -1,5 +1,5 @@
 package hashcode
 
 func ReturnSomething() string {
-	return "This is something! -- v3"
+	return "This is somethingxxxx! -- v3"
 }
